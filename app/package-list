@@ -1,0 +1,19 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:net.engawapg.app.testapp.ui.theme////PointingToDeclaration/app/net.engawapg.app.testapp.ui.theme/index.html
+$dokka.location:net.engawapg.app.testapp.ui.theme//Pink40/#/PointingToDeclaration/app/net.engawapg.app.testapp.ui.theme/-pink40.html
+$dokka.location:net.engawapg.app.testapp.ui.theme//Pink80/#/PointingToDeclaration/app/net.engawapg.app.testapp.ui.theme/-pink80.html
+$dokka.location:net.engawapg.app.testapp.ui.theme//Purple40/#/PointingToDeclaration/app/net.engawapg.app.testapp.ui.theme/-purple40.html
+$dokka.location:net.engawapg.app.testapp.ui.theme//Purple80/#/PointingToDeclaration/app/net.engawapg.app.testapp.ui.theme/-purple80.html
+$dokka.location:net.engawapg.app.testapp.ui.theme//PurpleGrey40/#/PointingToDeclaration/app/net.engawapg.app.testapp.ui.theme/-purple-grey40.html
+$dokka.location:net.engawapg.app.testapp.ui.theme//PurpleGrey80/#/PointingToDeclaration/app/net.engawapg.app.testapp.ui.theme/-purple-grey80.html
+$dokka.location:net.engawapg.app.testapp.ui.theme//TestAppTheme/#kotlin.Boolean#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/net.engawapg.app.testapp.ui.theme/-test-app-theme.html
+$dokka.location:net.engawapg.app.testapp.ui.theme//Typography/#/PointingToDeclaration/app/net.engawapg.app.testapp.ui.theme/-typography.html
+$dokka.location:net.engawapg.app.testapp////PointingToDeclaration/app/net.engawapg.app.testapp/index.html
+$dokka.location:net.engawapg.app.testapp//DefaultPreview/#/PointingToDeclaration/app/net.engawapg.app.testapp/-default-preview.html
+$dokka.location:net.engawapg.app.testapp//Greeting/#kotlin.String/PointingToDeclaration/app/net.engawapg.app.testapp/-greeting.html
+$dokka.location:net.engawapg.app.testapp/MainActivity///PointingToDeclaration/app/net.engawapg.app.testapp/-main-activity/index.html
+$dokka.location:net.engawapg.app.testapp/MainActivity/MainActivity/#/PointingToDeclaration/app/net.engawapg.app.testapp/-main-activity/-main-activity.html
+net.engawapg.app.testapp
+net.engawapg.app.testapp.ui.theme
+
