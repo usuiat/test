@@ -38,6 +38,7 @@ class MainActivity : ComponentActivity() {
  * Greeting function
  *
  * Test test test
+ * hogehoge
  *
  * @param name The name
  */
