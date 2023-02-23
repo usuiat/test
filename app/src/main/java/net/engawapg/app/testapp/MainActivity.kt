@@ -40,6 +40,7 @@ class MainActivity : ComponentActivity() {
  * Test test test
  * hogehoge
  * hugahuga
+ * munimuni
  *
  * @param name The name
  */
