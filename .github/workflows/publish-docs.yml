@@ -9,15 +9,15 @@ jobs:
   deploy_docs:
     runs-on: ubuntu-latest
     steps:
-#      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       # - name: Copy CI gradle.properties
       #   run: mkdir -p ~/.gradle ; cp .github/ci-gradle.properties ~/.gradle/gradle.properties
 
-      - name: set up JDK
-        uses: actions/setup-java@v1
-        with:
-          java-version: 11
+#      - name: set up JDK
+#        uses: actions/setup-java@v1
+#        with:
+#          java-version: 11
 
       - name: Generate docs
         run: ./gradlew dokkaHtml
